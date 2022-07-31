@@ -1,1 +1,1 @@
-alert("If you are not upset with the design, then it isn't a bad idea to color the grey heart pink.😁");
+alert("If you enjoy the calculator, support me by giving appreciation. Thank you  Don't forget to give me credit when you share it with others");
